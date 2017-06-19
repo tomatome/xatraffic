@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">西安实时公交</string>
+    <string name="btnSearch">搜索</string>
+    <string name="searchHint">请输入公交线路名</string>
+</resources>

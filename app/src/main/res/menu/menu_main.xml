@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.kongqw.myapplication.MainActivity">
+    <item
+        android:id="@+id/autoNumber"
+        android:orderInCategory="100"
+        android:title=""
+        app:showAsAction="always"
+        app:actionLayout="@layout/autorefresh" />
+    <item
+        android:id="@+id/about"
+        android:title="关于"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom" />
+</menu>
